@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["const form = document.querySelector(\"form\");\n\nform.addEventListener(\"submit\", event => {\n\t// ...\n});"],"names":["form","event"],"mappings":"ssBAAA,MAAMA,EAAO,SAAS,cAAc,MAAM,EAE1CA,EAAK,iBAAiB,SAAUC,GAAS,CAEzC,CAAC"}
